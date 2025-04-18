@@ -12,10 +12,10 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Rafa-CSS" height="30" width="40" 
+  <img align="center" alt="R" height="30" width="40" 
 src="(https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R)">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align= "center" alt="SQL" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
 </div>
 ---
