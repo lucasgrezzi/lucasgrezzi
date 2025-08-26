@@ -6,7 +6,7 @@
 🚀 Em transição de carreira com projetos reais e portfólio técnico
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgrezzi&show_icons=true&theme=radical&hide=commits)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgrezzi&show_icons=true&theme=dark&hide=commits)
 
 
 
