@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Lucas Grezzi Baptista 
 
-🎓 Biólogo formado, apaixonado por ciência, dados e tecnologia  
+🎓 Biólogo e estudante de Ciência da Computacão, apaixonado por ciência, dados e tecnologia  
 💻 Migrando com foco para **Data Science** 
 📈 Estudando Python, estatística, machine learning e banco de dados  
 🚀 Em transição de carreira com projetos reais e portfólio técnico
