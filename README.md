@@ -1,6 +1,13 @@
-# Olá, eu sou o Lucas Grezzi! 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20BEFF&center=true&vCenter=true&width=435&lines=Hi+guys!+I'm+Lucas;Data+Scientist+%7C+Biologist;Python+%7C+R+%7C+SQL" alt="Typing SVG" />
+  </a>
+</div>
 
-Sou um apaixonado por tecnologia e dados, graduando em Ciência da Computação com background em Biologia. Atualmente focado em Ciência de Dados, Machine Learning e Big Data.
+<p align="center">
+  Sou um apaixonado por tecnologia e dados, graduando em <b>Ciência da Computação</b> com background em <b>Biologia</b>.<br>
+  Atualmente focado em Ciência de Dados, Machine Learning e Big Data.
+</p>
 
 ---
 
@@ -29,4 +36,14 @@ Sou um apaixonado por tecnologia e dados, graduando em Ciência da Computação 
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<br>
+
+### 🐍 Minhas Contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasgrezzi/lucasgrezzi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasgrezzi/lucasgrezzi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasgrezzi/lucasgrezzi/output/github-contribution-grid-snake.svg">
+</picture>
